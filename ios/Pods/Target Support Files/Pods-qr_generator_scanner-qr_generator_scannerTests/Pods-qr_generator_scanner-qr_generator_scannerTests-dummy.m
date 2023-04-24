@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_qr_generator_scanner_qr_generator_scannerTests : NSObject
+@end
+@implementation PodsDummy_Pods_qr_generator_scanner_qr_generator_scannerTests
+@end

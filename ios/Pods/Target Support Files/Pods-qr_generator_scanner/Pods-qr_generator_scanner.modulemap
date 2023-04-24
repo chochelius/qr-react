@@ -1,0 +1,6 @@
+module Pods_qr_generator_scanner {
+  umbrella header "Pods-qr_generator_scanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
