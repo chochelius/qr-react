@@ -1,0 +1,634 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/43a2a8a12b7fa47fb1b2f43cbc998598/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/0b720815c03135fe424472dad43181b1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-permissions] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-svg] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/857ef3914b763199b916e33cec1bfdf6/transformed/jetified-react-android-0.71.0-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e5ac5c2d705db780decc212166378790/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ff52719915d2a42680ecf34d1eb8ebc2/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/a01084748e5fe17056a2b08f620a775b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/72efd40dfa29ebebb0cfdab9aa72f183/transformed/jetified-hermes-android-0.71.0-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/fyk/.gradle/caches/transforms-3/c768747eebce2876444518ccb87a43c1/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/fyk/.gradle/caches/transforms-3/631ae7a04b210c23cd53e6feb4365dfd/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4f239f9cf7cbadf1e5082d956d76f87c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4244abf397729f49d6dc9876b3d337db/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/fyk/.gradle/caches/transforms-3/344d1403f313dc2fa792f000c72e97df/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/fyk/.gradle/caches/transforms-3/31dcf04224ac67e909953a2322976be8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/fyk/.gradle/caches/transforms-3/8779aeee19807263b88976f7e32a08a5/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a2176707dc1c816d738e7ffb2c3d5c6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/461617da71842b0e6081f1e13a458a8d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/fyk/.gradle/caches/transforms-3/fcbdc1ff3763c720b3d654e26667806b/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/e6a5303754d6f6ceea501e678c93d110/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/fyk/.gradle/caches/transforms-3/d0e012d100019f7a6569a56ed210405a/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c5ce78173681d80841021b93124b3599/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/fyk/.gradle/caches/transforms-3/75a4b83fc5e143bf809e6befc8b8f6a4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/fyk/.gradle/caches/transforms-3/80f7907d0b7708980be170e5b3d71c8d/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/fyk/.gradle/caches/transforms-3/636fe731fbbfb2bc5292ce3b024402d5/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/fyk/.gradle/caches/transforms-3/f093d2f884a3b5af28656a587cde544b/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a12264d15cf8365067c310c0c6dd3724/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/fyk/.gradle/caches/transforms-3/daf580616f710c18aa8ac06e59f5e7a1/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a8ab30ad616b26dfd082478d6f662da6/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/fyk/.gradle/caches/transforms-3/ec2263dc529085c1f6ae10314d50e42b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/fyk/.gradle/caches/transforms-3/f2224fd85bb73bcb23f093df8cf1e0e8/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/50363d69307ea734f231c1a34b8c25d9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fyk/.gradle/caches/transforms-3/e1fd3adfa144d7a40d323f193d7eb81d/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/fyk/.gradle/caches/transforms-3/b3ddf274e5a4b5823f989ff7062aabb2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/fyk/.gradle/caches/transforms-3/06fdd5d016ce1c9c5a0e1c72d559bdb0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/fyk/.gradle/caches/transforms-3/1cb7bac7549fee2aaf9dfa3452f9b04e/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/fyk/.gradle/caches/transforms-3/eb56142f3fd14183ff92f574b5c37a8c/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c7148230ab4a081309defa79b4bc1b4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fyk/.gradle/caches/transforms-3/7739935d889e8ab165f21c3cfb6e01ea/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f9d038e1a5097eb4cb1b7416f2eafe15/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/fyk/.gradle/caches/transforms-3/97a139a52166eb53264c8b8cf1f5f429/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6f6c8f34ba555af7c02b43b05bb2dad3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fyk/.gradle/caches/transforms-3/ab39e25daed9b5bc362b959d258e28db/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/fyk/.gradle/caches/transforms-3/d78507df6d99ef34776fbaa424c30e4b/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/994dbff87a7018b3288dea9a8a5192fb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fyk/.gradle/caches/transforms-3/b6f1acebd98b1045715f7e4917376314/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ad55463538dd58bcfb89c7a9151d8c67/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fyk/.gradle/caches/transforms-3/871e7d70bffb6d6efb23b035684b5980/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f2e43e905f838976b350a1033f7f184d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/3ea58d2ba165afe1972c32f6070ddc16/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6c892dfbacc034f34839613c2b5136b6/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/eab26ad05e7598f676e2b260926db2f4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/fyk/.gradle/caches/transforms-3/b9f3d022ff3b163a2f4800b4b57e2cbe/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e82986094bfb6753c5187d450d730298/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b16f79d4df8b45c5a48d72dc2c380/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fyk/.gradle/caches/transforms-3/502787727a5d0ffa4ffe122a20edab6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/fyk/.gradle/caches/transforms-3/095dcc53ba8015ce36fab8d24d056536/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/fyk/.gradle/caches/transforms-3/93acf1ad989944618a56102adc559847/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8875b04e31e915a720c90831a6e7c0bf/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/fyk/.gradle/caches/transforms-3/43d63cb0d80698402809a75c05def0cc/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/fyk/.gradle/caches/transforms-3/b29d03dce4ef276703bbe5d8bfb55c6d/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/fyk/.gradle/caches/transforms-3/1bca93bf8da220604211effec721db25/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/971aa2a3b270e4827d9a969901ad88ef/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fyk/.gradle/caches/transforms-3/8cb9c6321089cddbe024c4610291e191/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b2f38efc12f7a2b7651ea97336df1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8b0bdb1b4dcfa5c844c56d209e604bb3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/fyk/.gradle/caches/transforms-3/ed975a6d148f49c2a4db3fa2084c0623/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fyk/.gradle/caches/transforms-3/0747650fa5b89218dc07d8c83af91718/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fyk/.gradle/caches/transforms-3/22e57018b59f2a3b1a7768a677117731/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cf1b93e44c62eb27a70607d4286ac15b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cb6219b1b9f4caac8dc3c243be1863a2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a8b95c2963748c6ed138ee6159bab1e0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/fyk/.gradle/caches/transforms-3/597d45a4ae351ed42edd32437e4721b5/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fyk/.gradle/caches/transforms-3/117bca701d8bad50e2d0891c2f83cf57/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:4:22-63
+application
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:33:5-43:19
+MERGED from [com.facebook.react:react-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/857ef3914b763199b916e33cec1bfdf6/transformed/jetified-react-android-0.71.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/857ef3914b763199b916e33cec1bfdf6/transformed/jetified-react-android-0.71.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/fyk/.gradle/caches/transforms-3/d0e012d100019f7a6569a56ed210405a/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/fyk/.gradle/caches/transforms-3/d0e012d100019f7a6569a56ed210405a/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/fyk/.gradle/caches/transforms-3/f093d2f884a3b5af28656a587cde544b/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/fyk/.gradle/caches/transforms-3/f093d2f884a3b5af28656a587cde544b/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/fyk/.gradle/caches/transforms-3/f2224fd85bb73bcb23f093df8cf1e0e8/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/fyk/.gradle/caches/transforms-3/f2224fd85bb73bcb23f093df8cf1e0e8/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fyk/.gradle/caches/transforms-3/8cb9c6321089cddbe024c4610291e191/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fyk/.gradle/caches/transforms-3/8cb9c6321089cddbe024c4610291e191/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/fyk/.gradle/caches/transforms-3/597d45a4ae351ed42edd32437e4721b5/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/fyk/.gradle/caches/transforms-3/597d45a4ae351ed42edd32437e4721b5/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:7:7-39
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:7:7-39
+	tools:ignore
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:9:7-52
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:9:7-52
+	tools:targetApi
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:8:7-41
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:6:7-38
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:6:7-38
+activity#com.qr_generator_scanner.MainActivity
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:12:7-23:18
+	android:label
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:launchMode
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:16:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:exported
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:18:9-32
+	android:configChanges
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:15:9-118
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml:21:23-70
+uses-sdk
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/43a2a8a12b7fa47fb1b2f43cbc998598/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/43a2a8a12b7fa47fb1b2f43cbc998598/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/0b720815c03135fe424472dad43181b1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/fyk/.gradle/caches/transforms-3/0b720815c03135fe424472dad43181b1/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/857ef3914b763199b916e33cec1bfdf6/transformed/jetified-react-android-0.71.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/857ef3914b763199b916e33cec1bfdf6/transformed/jetified-react-android-0.71.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e5ac5c2d705db780decc212166378790/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e5ac5c2d705db780decc212166378790/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ff52719915d2a42680ecf34d1eb8ebc2/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ff52719915d2a42680ecf34d1eb8ebc2/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/a01084748e5fe17056a2b08f620a775b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/a01084748e5fe17056a2b08f620a775b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/72efd40dfa29ebebb0cfdab9aa72f183/transformed/jetified-hermes-android-0.71.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.0] /Users/fyk/.gradle/caches/transforms-3/72efd40dfa29ebebb0cfdab9aa72f183/transformed/jetified-hermes-android-0.71.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/fyk/.gradle/caches/transforms-3/c768747eebce2876444518ccb87a43c1/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/fyk/.gradle/caches/transforms-3/c768747eebce2876444518ccb87a43c1/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/fyk/.gradle/caches/transforms-3/631ae7a04b210c23cd53e6feb4365dfd/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/fyk/.gradle/caches/transforms-3/631ae7a04b210c23cd53e6feb4365dfd/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4f239f9cf7cbadf1e5082d956d76f87c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4f239f9cf7cbadf1e5082d956d76f87c/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4244abf397729f49d6dc9876b3d337db/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/fyk/.gradle/caches/transforms-3/4244abf397729f49d6dc9876b3d337db/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/fyk/.gradle/caches/transforms-3/344d1403f313dc2fa792f000c72e97df/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/fyk/.gradle/caches/transforms-3/344d1403f313dc2fa792f000c72e97df/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/fyk/.gradle/caches/transforms-3/31dcf04224ac67e909953a2322976be8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/fyk/.gradle/caches/transforms-3/31dcf04224ac67e909953a2322976be8/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/fyk/.gradle/caches/transforms-3/8779aeee19807263b88976f7e32a08a5/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/fyk/.gradle/caches/transforms-3/8779aeee19807263b88976f7e32a08a5/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a2176707dc1c816d738e7ffb2c3d5c6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a2176707dc1c816d738e7ffb2c3d5c6c/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/461617da71842b0e6081f1e13a458a8d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/461617da71842b0e6081f1e13a458a8d/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/fyk/.gradle/caches/transforms-3/fcbdc1ff3763c720b3d654e26667806b/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/fyk/.gradle/caches/transforms-3/fcbdc1ff3763c720b3d654e26667806b/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/e6a5303754d6f6ceea501e678c93d110/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/fyk/.gradle/caches/transforms-3/e6a5303754d6f6ceea501e678c93d110/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/fyk/.gradle/caches/transforms-3/d0e012d100019f7a6569a56ed210405a/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/fyk/.gradle/caches/transforms-3/d0e012d100019f7a6569a56ed210405a/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c5ce78173681d80841021b93124b3599/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c5ce78173681d80841021b93124b3599/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/fyk/.gradle/caches/transforms-3/75a4b83fc5e143bf809e6befc8b8f6a4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/fyk/.gradle/caches/transforms-3/75a4b83fc5e143bf809e6befc8b8f6a4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/fyk/.gradle/caches/transforms-3/80f7907d0b7708980be170e5b3d71c8d/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/fyk/.gradle/caches/transforms-3/80f7907d0b7708980be170e5b3d71c8d/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/fyk/.gradle/caches/transforms-3/636fe731fbbfb2bc5292ce3b024402d5/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/fyk/.gradle/caches/transforms-3/636fe731fbbfb2bc5292ce3b024402d5/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/fyk/.gradle/caches/transforms-3/f093d2f884a3b5af28656a587cde544b/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/fyk/.gradle/caches/transforms-3/f093d2f884a3b5af28656a587cde544b/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a12264d15cf8365067c310c0c6dd3724/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a12264d15cf8365067c310c0c6dd3724/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/fyk/.gradle/caches/transforms-3/daf580616f710c18aa8ac06e59f5e7a1/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/fyk/.gradle/caches/transforms-3/daf580616f710c18aa8ac06e59f5e7a1/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a8ab30ad616b26dfd082478d6f662da6/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/fyk/.gradle/caches/transforms-3/a8ab30ad616b26dfd082478d6f662da6/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/fyk/.gradle/caches/transforms-3/ec2263dc529085c1f6ae10314d50e42b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/fyk/.gradle/caches/transforms-3/ec2263dc529085c1f6ae10314d50e42b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/fyk/.gradle/caches/transforms-3/f2224fd85bb73bcb23f093df8cf1e0e8/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/fyk/.gradle/caches/transforms-3/f2224fd85bb73bcb23f093df8cf1e0e8/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/50363d69307ea734f231c1a34b8c25d9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/50363d69307ea734f231c1a34b8c25d9/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fyk/.gradle/caches/transforms-3/e1fd3adfa144d7a40d323f193d7eb81d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/fyk/.gradle/caches/transforms-3/e1fd3adfa144d7a40d323f193d7eb81d/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/fyk/.gradle/caches/transforms-3/b3ddf274e5a4b5823f989ff7062aabb2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/fyk/.gradle/caches/transforms-3/b3ddf274e5a4b5823f989ff7062aabb2/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/fyk/.gradle/caches/transforms-3/06fdd5d016ce1c9c5a0e1c72d559bdb0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/fyk/.gradle/caches/transforms-3/06fdd5d016ce1c9c5a0e1c72d559bdb0/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/fyk/.gradle/caches/transforms-3/1cb7bac7549fee2aaf9dfa3452f9b04e/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/fyk/.gradle/caches/transforms-3/1cb7bac7549fee2aaf9dfa3452f9b04e/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/fyk/.gradle/caches/transforms-3/eb56142f3fd14183ff92f574b5c37a8c/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/fyk/.gradle/caches/transforms-3/eb56142f3fd14183ff92f574b5c37a8c/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c7148230ab4a081309defa79b4bc1b4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/fyk/.gradle/caches/transforms-3/c7148230ab4a081309defa79b4bc1b4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fyk/.gradle/caches/transforms-3/7739935d889e8ab165f21c3cfb6e01ea/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/fyk/.gradle/caches/transforms-3/7739935d889e8ab165f21c3cfb6e01ea/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f9d038e1a5097eb4cb1b7416f2eafe15/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f9d038e1a5097eb4cb1b7416f2eafe15/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/fyk/.gradle/caches/transforms-3/97a139a52166eb53264c8b8cf1f5f429/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /Users/fyk/.gradle/caches/transforms-3/97a139a52166eb53264c8b8cf1f5f429/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6f6c8f34ba555af7c02b43b05bb2dad3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6f6c8f34ba555af7c02b43b05bb2dad3/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fyk/.gradle/caches/transforms-3/ab39e25daed9b5bc362b959d258e28db/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fyk/.gradle/caches/transforms-3/ab39e25daed9b5bc362b959d258e28db/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/fyk/.gradle/caches/transforms-3/d78507df6d99ef34776fbaa424c30e4b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/fyk/.gradle/caches/transforms-3/d78507df6d99ef34776fbaa424c30e4b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/994dbff87a7018b3288dea9a8a5192fb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/994dbff87a7018b3288dea9a8a5192fb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fyk/.gradle/caches/transforms-3/b6f1acebd98b1045715f7e4917376314/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/fyk/.gradle/caches/transforms-3/b6f1acebd98b1045715f7e4917376314/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ad55463538dd58bcfb89c7a9151d8c67/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/fyk/.gradle/caches/transforms-3/ad55463538dd58bcfb89c7a9151d8c67/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fyk/.gradle/caches/transforms-3/871e7d70bffb6d6efb23b035684b5980/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/fyk/.gradle/caches/transforms-3/871e7d70bffb6d6efb23b035684b5980/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f2e43e905f838976b350a1033f7f184d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/f2e43e905f838976b350a1033f7f184d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/3ea58d2ba165afe1972c32f6070ddc16/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/fyk/.gradle/caches/transforms-3/3ea58d2ba165afe1972c32f6070ddc16/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6c892dfbacc034f34839613c2b5136b6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/fyk/.gradle/caches/transforms-3/6c892dfbacc034f34839613c2b5136b6/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/eab26ad05e7598f676e2b260926db2f4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/eab26ad05e7598f676e2b260926db2f4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/fyk/.gradle/caches/transforms-3/b9f3d022ff3b163a2f4800b4b57e2cbe/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/fyk/.gradle/caches/transforms-3/b9f3d022ff3b163a2f4800b4b57e2cbe/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e82986094bfb6753c5187d450d730298/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/fyk/.gradle/caches/transforms-3/e82986094bfb6753c5187d450d730298/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b16f79d4df8b45c5a48d72dc2c380/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b16f79d4df8b45c5a48d72dc2c380/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/fyk/.gradle/caches/transforms-3/2906539589d77d48208c25d8c6fefb75/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fyk/.gradle/caches/transforms-3/502787727a5d0ffa4ffe122a20edab6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/fyk/.gradle/caches/transforms-3/502787727a5d0ffa4ffe122a20edab6e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/fyk/.gradle/caches/transforms-3/095dcc53ba8015ce36fab8d24d056536/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/fyk/.gradle/caches/transforms-3/095dcc53ba8015ce36fab8d24d056536/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/fyk/.gradle/caches/transforms-3/93acf1ad989944618a56102adc559847/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/fyk/.gradle/caches/transforms-3/93acf1ad989944618a56102adc559847/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8875b04e31e915a720c90831a6e7c0bf/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8875b04e31e915a720c90831a6e7c0bf/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/fyk/.gradle/caches/transforms-3/43d63cb0d80698402809a75c05def0cc/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/fyk/.gradle/caches/transforms-3/43d63cb0d80698402809a75c05def0cc/transformed/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/fyk/.gradle/caches/transforms-3/b29d03dce4ef276703bbe5d8bfb55c6d/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/fyk/.gradle/caches/transforms-3/b29d03dce4ef276703bbe5d8bfb55c6d/transformed/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/fyk/.gradle/caches/transforms-3/1bca93bf8da220604211effec721db25/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/fyk/.gradle/caches/transforms-3/1bca93bf8da220604211effec721db25/transformed/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/971aa2a3b270e4827d9a969901ad88ef/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/fyk/.gradle/caches/transforms-3/971aa2a3b270e4827d9a969901ad88ef/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fyk/.gradle/caches/transforms-3/8cb9c6321089cddbe024c4610291e191/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fyk/.gradle/caches/transforms-3/8cb9c6321089cddbe024c4610291e191/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b2f38efc12f7a2b7651ea97336df1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/fyk/.gradle/caches/transforms-3/c02b2f38efc12f7a2b7651ea97336df1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8b0bdb1b4dcfa5c844c56d209e604bb3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/fyk/.gradle/caches/transforms-3/8b0bdb1b4dcfa5c844c56d209e604bb3/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/fyk/.gradle/caches/transforms-3/ed975a6d148f49c2a4db3fa2084c0623/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/fyk/.gradle/caches/transforms-3/ed975a6d148f49c2a4db3fa2084c0623/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fyk/.gradle/caches/transforms-3/0747650fa5b89218dc07d8c83af91718/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fyk/.gradle/caches/transforms-3/0747650fa5b89218dc07d8c83af91718/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fyk/.gradle/caches/transforms-3/22e57018b59f2a3b1a7768a677117731/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/fyk/.gradle/caches/transforms-3/22e57018b59f2a3b1a7768a677117731/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cf1b93e44c62eb27a70607d4286ac15b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cf1b93e44c62eb27a70607d4286ac15b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cb6219b1b9f4caac8dc3c243be1863a2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/fyk/.gradle/caches/transforms-3/cb6219b1b9f4caac8dc3c243be1863a2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a8b95c2963748c6ed138ee6159bab1e0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/fyk/.gradle/caches/transforms-3/a8b95c2963748c6ed138ee6159bab1e0/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/fyk/.gradle/caches/transforms-3/597d45a4ae351ed42edd32437e4721b5/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/fyk/.gradle/caches/transforms-3/597d45a4ae351ed42edd32437e4721b5/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fyk/.gradle/caches/transforms-3/117bca701d8bad50e2d0891c2f83cf57/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fyk/.gradle/caches/transforms-3/117bca701d8bad50e2d0891c2f83cf57/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/fyk/ReactNative-QR-Generator-Scanner/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+MERGED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/fyk/.gradle/caches/transforms-3/de468df744d327773c077b2bd7dfcd5d/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-camera/android/build/intermediates/merged_manifest/generalDebug/AndroidManifest.xml:15:9-57
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:64
+	android:resource
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-61
+	android:name
+		ADDED from [:react-native-share] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:22-78
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/fyk/ReactNative-QR-Generator-Scanner/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-62
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.barcode.internal.BarcodeRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-barcode-scanning:16.2.0] /Users/fyk/.gradle/caches/transforms-3/1cd7e47a11ddca1f8376e00a70fe0a27/transformed/jetified-play-services-mlkit-barcode-scanning-16.2.0/AndroidManifest.xml:13:17-120
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/fyk/.gradle/caches/transforms-3/82393a6be91320b07704aa61c626af66/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.text.internal.TextRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-text-recognition:16.3.0] /Users/fyk/.gradle/caches/transforms-3/0329c445ba440fbfff54f12b5664ecf7/transformed/jetified-play-services-mlkit-text-recognition-16.3.0/AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:16.5.0] /Users/fyk/.gradle/caches/transforms-3/eaabba958c679c878c216920dd903634/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:17.2.0] /Users/fyk/.gradle/caches/transforms-3/5328c10e941393a5455358e5c271f8f4/transformed/jetified-common-17.2.0/AndroidManifest.xml:21:17-120
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.6.0] /Users/fyk/.gradle/caches/transforms-3/7b45adbb8ab94249cd5e371bef401282/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/fyk/.gradle/caches/transforms-3/c14adb4c749a0b7af931feab1ad1aa24/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/fyk/.gradle/caches/transforms-3/20bcd0c08c803ce27feda6698e3013b0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/fyk/.gradle/caches/transforms-3/6500ef9946bc7b6d77e820a45fe1d85f/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/fyk/.gradle/caches/transforms-3/03b4b9e744e49cd3c48e6cba3234cbb6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/fyk/.gradle/caches/transforms-3/2a0f1b3a40483bba633964afe2b1d2ea/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] /Users/fyk/.gradle/caches/transforms-3/a4c92434f9ef7813bad0a944781cfefc/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
